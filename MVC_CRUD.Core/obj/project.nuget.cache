@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "E9VW2r7RpX8I0CVTO0uP65kO+VTJGt2bFrk8kTcVwxJZoD5J13oBwu8XcYF216HrJZk70+aKiks0f/OrF1MAKA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Acer\\OneDrive\\İş masası\\Back-end\\MVC_CRUD\\MVC_CRUD.Core\\MVC_CRUD.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
+    "C:\\Users\\Acer\\.nuget\\packages\\system.io.pipelines\\5.0.2\\system.io.pipelines.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

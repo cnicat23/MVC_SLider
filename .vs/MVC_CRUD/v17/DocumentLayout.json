@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Acer\\OneDrive\\\u0130\u015F masas\u0131\\Back-end\\MVC_CRUD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{56E02513-316D-4FE6-9097-459203A5A935}|MVC_CRUD\\MVC_CRUD.csproj|c:\\users\\acer\\onedrive\\\u0130\u015F masas\u0131\\back-end\\mvc_crud\\mvc_crud\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56E02513-316D-4FE6-9097-459203A5A935}|MVC_CRUD\\MVC_CRUD.csproj|solutionrelative:mvc_crud\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56E02513-316D-4FE6-9097-459203A5A935}|MVC_CRUD\\MVC_CRUD.csproj|c:\\users\\acer\\onedrive\\\u0130\u015F masas\u0131\\back-end\\mvc_crud\\mvc_crud\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56E02513-316D-4FE6-9097-459203A5A935}|MVC_CRUD\\MVC_CRUD.csproj|solutionrelative:mvc_crud\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF764FEC-A3A4-4069-BD57-37FB50A1B04B}|MVC_CRUD.Core\\MVC_CRUD.Core.csproj|c:\\users\\acer\\onedrive\\\u0130\u015F masas\u0131\\back-end\\mvc_crud\\mvc_crud.core\\viewsmodel\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF764FEC-A3A4-4069-BD57-37FB50A1B04B}|MVC_CRUD.Core\\MVC_CRUD.Core.csproj|solutionrelative:mvc_crud.core\\viewsmodel\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56E02513-316D-4FE6-9097-459203A5A935}|MVC_CRUD\\MVC_CRUD.csproj|c:\\users\\acer\\onedrive\\\u0130\u015F masas\u0131\\back-end\\mvc_crud\\mvc_crud\\areas\\admin\\views\\slider\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56E02513-316D-4FE6-9097-459203A5A935}|MVC_CRUD\\MVC_CRUD.csproj|solutionrelative:mvc_crud\\areas\\admin\\views\\slider\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F5F552E-E16F-41B9-83CB-305EF8BE3566}|MVC_CRUD.Business\\MVC_CRUD.Business.csproj|c:\\users\\acer\\onedrive\\\u0130\u015F masas\u0131\\back-end\\mvc_crud\\mvc_crud.business\\services\\concretes\\featureservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F5F552E-E16F-41B9-83CB-305EF8BE3566}|MVC_CRUD.Business\\MVC_CRUD.Business.csproj|solutionrelative:mvc_crud.business\\services\\concretes\\featureservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04B11F5D-58C2-463F-82A3-973B9E51AC21}|MVC_CRUD.Data\\MVC_CRUD.Data.csproj|c:\\users\\acer\\onedrive\\\u0130\u015F masas\u0131\\back-end\\mvc_crud\\mvc_crud.data\\repositoryconcretes\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04B11F5D-58C2-463F-82A3-973B9E51AC21}|MVC_CRUD.Data\\MVC_CRUD.Data.csproj|solutionrelative:mvc_crud.data\\repositoryconcretes\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeVM.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\OneDrive\\\u0130\u015F masas\u0131\\Back-end\\MVC_CRUD\\MVC_CRUD.Core\\ViewsModel\\HomeVM.cs",
+              "RelativeDocumentMoniker": "MVC_CRUD.Core\\ViewsModel\\HomeVM.cs",
+              "ToolTip": "C:\\Users\\Acer\\OneDrive\\\u0130\u015F masas\u0131\\Back-end\\MVC_CRUD\\MVC_CRUD.Core\\ViewsModel\\HomeVM.cs",
+              "RelativeToolTip": "MVC_CRUD.Core\\ViewsModel\\HomeVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T07:48:09.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Acer\\OneDrive\\\u0130\u015F masas\u0131\\Back-end\\MVC_CRUD\\MVC_CRUD\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVC_CRUD\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Acer\\OneDrive\\\u0130\u015F masas\u0131\\Back-end\\MVC_CRUD\\MVC_CRUD\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MVC_CRUD\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAACMAAABjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T07:41:09.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Acer\\OneDrive\\\u0130\u015F masas\u0131\\Back-end\\MVC_CRUD\\MVC_CRUD\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVC_CRUD\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Acer\\OneDrive\\\u0130\u015F masas\u0131\\Back-end\\MVC_CRUD\\MVC_CRUD\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
+              "RelativeToolTip": "MVC_CRUD\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwCAAAABnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T07:37:38.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\OneDrive\\\u0130\u015F masas\u0131\\Back-end\\MVC_CRUD\\MVC_CRUD\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MVC_CRUD\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Acer\\OneDrive\\\u0130\u015F masas\u0131\\Back-end\\MVC_CRUD\\MVC_CRUD\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MVC_CRUD\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T05:42:32.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FeatureService.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\OneDrive\\\u0130\u015F masas\u0131\\Back-end\\MVC_CRUD\\MVC_CRUD.Business\\Services\\Concretes\\FeatureService.cs",
+              "RelativeDocumentMoniker": "MVC_CRUD.Business\\Services\\Concretes\\FeatureService.cs",
+              "ToolTip": "C:\\Users\\Acer\\OneDrive\\\u0130\u015F masas\u0131\\Back-end\\MVC_CRUD\\MVC_CRUD.Business\\Services\\Concretes\\FeatureService.cs",
+              "RelativeToolTip": "MVC_CRUD.Business\\Services\\Concretes\\FeatureService.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAwA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T05:41:56.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\OneDrive\\\u0130\u015F masas\u0131\\Back-end\\MVC_CRUD\\MVC_CRUD.Data\\RepositoryConcretes\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "MVC_CRUD.Data\\RepositoryConcretes\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\Acer\\OneDrive\\\u0130\u015F masas\u0131\\Back-end\\MVC_CRUD\\MVC_CRUD.Data\\RepositoryConcretes\\GenericRepository.cs",
+              "RelativeToolTip": "MVC_CRUD.Data\\RepositoryConcretes\\GenericRepository.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAgwCEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T05:40:59.425Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

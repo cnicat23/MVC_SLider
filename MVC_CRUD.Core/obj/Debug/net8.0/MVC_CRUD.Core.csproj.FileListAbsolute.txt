@@ -1,0 +1,13 @@
+C:\Users\Acer\OneDrive\İş masası\Back-end\MVC_CRUD\MVC_CRUD.Core\bin\Debug\net8.0\MVC_CRUD.Core.deps.json
+C:\Users\Acer\OneDrive\İş masası\Back-end\MVC_CRUD\MVC_CRUD.Core\bin\Debug\net8.0\MVC_CRUD.Core.dll
+C:\Users\Acer\OneDrive\İş masası\Back-end\MVC_CRUD\MVC_CRUD.Core\bin\Debug\net8.0\MVC_CRUD.Core.pdb
+C:\Users\Acer\OneDrive\İş masası\Back-end\MVC_CRUD\MVC_CRUD.Core\obj\Debug\net8.0\MVC_CRUD.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\OneDrive\İş masası\Back-end\MVC_CRUD\MVC_CRUD.Core\obj\Debug\net8.0\MVC_CRUD.Core.AssemblyInfoInputs.cache
+C:\Users\Acer\OneDrive\İş masası\Back-end\MVC_CRUD\MVC_CRUD.Core\obj\Debug\net8.0\MVC_CRUD.Core.AssemblyInfo.cs
+C:\Users\Acer\OneDrive\İş masası\Back-end\MVC_CRUD\MVC_CRUD.Core\obj\Debug\net8.0\MVC_CRUD.Core.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\İş masası\Back-end\MVC_CRUD\MVC_CRUD.Core\obj\Debug\net8.0\MVC_CRUD.Core.dll
+C:\Users\Acer\OneDrive\İş masası\Back-end\MVC_CRUD\MVC_CRUD.Core\obj\Debug\net8.0\refint\MVC_CRUD.Core.dll
+C:\Users\Acer\OneDrive\İş masası\Back-end\MVC_CRUD\MVC_CRUD.Core\obj\Debug\net8.0\MVC_CRUD.Core.pdb
+C:\Users\Acer\OneDrive\İş masası\Back-end\MVC_CRUD\MVC_CRUD.Core\obj\Debug\net8.0\ref\MVC_CRUD.Core.dll
+C:\Users\Acer\OneDrive\İş masası\Back-end\MVC_CRUD\MVC_CRUD.Core\obj\Debug\net8.0\MVC_CRUD.Core.sourcelink.json
+C:\Users\Acer\OneDrive\İş masası\Back-end\MVC_CRUD\MVC_CRUD.Core\obj\Debug\net8.0\MVC_CRUD.Core.csproj.AssemblyReference.cache
